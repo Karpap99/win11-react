@@ -1,0 +1,18 @@
+.Tab_Taskbar{
+    height: 44px;
+    width: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.Tab_Taskbar:hover{
+    background-color: rgb(245, 245, 245);
+    box-shadow: 0px 0px 1px 1px rgba(112, 112, 112, 0.247);
+}
+
+.Tab_Taskbar_Image{
+    height: 26px;
+    width: 26px;
+}

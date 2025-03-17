@@ -1,0 +1,24 @@
+.Searchbar{
+    height: 48px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.Searchbar_input{
+    height: 26px;
+    border: 1px solid rgba(80, 80, 80, 0.349);
+    border-radius: 25px;
+    
+    padding: 2px 2px 2px 35px;
+}
+
+
+.Searchbar_input:focus{
+    outline: none;
+    border: 1px solid rgba(80, 80, 80, 0.349);
+    border-radius: 25px;
+}
+
+
+

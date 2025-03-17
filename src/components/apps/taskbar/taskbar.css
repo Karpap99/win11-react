@@ -1,0 +1,19 @@
+.Taskbar{
+    position: absolute;
+    height: 55px;
+    width: 100%;
+    bottom: 0;
+    background: rgb(255,255,255);
+    background: linear-gradient(111deg, rgba(255,255,255,1) 10%, rgb(213, 255, 255) 50%, rgba(255,255,254,1) 90%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.Taskbar_middle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
